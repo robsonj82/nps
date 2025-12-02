@@ -23,7 +23,7 @@ jobs:
           port: 21
           protocol: ftp
           local-dir: ./
-          server-dir: /public_html/nps/
+          server-dir: /nps/
           exclude: |
             **/.git*
             **/.git*/**
